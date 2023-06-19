@@ -10,5 +10,6 @@ A very fast and highly accurate OMR scanner.
 - Then click on maven symbol **_m_** on the right hand side of intelli-J
 - Go to lifecycle which will be located once you click the maven project in the Maven side window
 - Then click on **Install** and after installation click on the refresh symbol.
-![Screenshot of Maven depencdency]("C:\Users\HP\OneDrive\Pictures\Screenshots\opencv.png")
+![opencv](https://github.com/AMoeez1910/OMR-mcq-Checker/assets/113182819/44ddaa8e-7c69-4cbf-853c-76df8971138d)
+
 
