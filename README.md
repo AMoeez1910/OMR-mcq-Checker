@@ -12,4 +12,5 @@ A very fast and highly accurate OMR scanner.
 - Then click on **Install** and after installation click on the refresh symbol.
 ![opencv](https://github.com/AMoeez1910/OMR-mcq-Checker/assets/113182819/44ddaa8e-7c69-4cbf-853c-76df8971138d)
 
-
+## Run the program
+- Run the OMR.java program in src file
